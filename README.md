@@ -39,7 +39,20 @@ To keep things simple, set the stroke color to black and set no fill color.
 
 As an example, here’s a shape I made using the pen tool:
 
-![Optional Text](images_4_README/02_penTool_x2.jpg)  
+![Optional Text](images_4_README/02_penTool_x2.jpg)
+
+Or, you could use any other of the following tools for drawing your shape:
+
+![Optional Text](images_4_README/03_otherTools.jpg)
+
+You can draw more than one shape, that’s fine.
+
+
+
+
+
+
+
 
 
 
