@@ -55,6 +55,7 @@ What does NOT work with shapeConverter ?
 * compound paths
 * gradient colours
 * more than one layer
+
 Stay simple and you will be happy with the results of ShapeConverter.
 <br><br>
 #### 3) 
