@@ -23,13 +23,16 @@ It could be better, I know. Instead of getting one vertex point and one bezierVe
 
 ### How to use ShapeConverter
 
-1) Open Illustrator and create a new file. Set the units to Pixels, and to make things easier, set the width and height to the same size as your Processing project.
+#### 1) 
+Open Illustrator and create a new file. Set the units to Pixels, and to make things easier, set the width and height to the same size as your Processing project.
 
 (If you set your document size to the same as your Processing project size, you can get an overall idea of how big the shapes will be in your Processing project while you are drawing them in Illustrator.)
 
 ![Optional Text](images_4_README/01_newAI_File.jpg)
 
-2) Draw some simple shapes.
+
+#### 2) 
+Draw some simple shapes.
 
 The top left corner of your Illustrator art board will have the Processing coordinates x0, y0. 
 
@@ -55,7 +58,9 @@ What does NOT work with shapeConverter ?
 * more than one layer
 Stay simple and you will be happy with the results of ShapeConverter.
 
-3) Once you have your shape finished, it is important to export it in the right file format: **Illustrator 8**.
+
+#### 3) 
+Once you have your shape finished, it is important to export it in the right file format: **Illustrator 8**.
 
 Click File –> Save as
 
@@ -91,7 +96,9 @@ If you slowly scroll up a little bit, you will also find the line saying "%AI5_B
 
 The interesting data that makes your shape is between the "%AI5_BeginLayer" and the "%AI5_EndLayer--" lines. I will not go into detail about the Adobe Illustrator file format here, because this would be way too much for here and it is not essential that you actually know about it at at all. This was just a little side track.
 
-4) Open the shapeConverter.pde file in your Processing application and click the Run button:
+
+#### 4) 
+Open the shapeConverter.pde file in your Processing application and click the Run button:
 
 ![Optional Text](images_4_README/11_processingRun.jpg)
 
@@ -111,7 +118,9 @@ If you get this warning –>
 
 ... that means you probably tried to open a file that was saved with a different file format. Make sure you follow the steps above to make sure your file has **Illustrator 8** format !
 
-5) If everything went well, your shape should appear in the ShapeCoverter window.
+
+#### 5) 
+If everything went well, your shape should appear in the ShapeCoverter window.
 
 The cross indicates where the TOP LEFT corner of your Illustrator document was. In my case I drew the shape with one point at (0,0), and this point lines up with the cross:
 
@@ -119,7 +128,9 @@ The cross indicates where the TOP LEFT corner of your Illustrator document was. 
 
 If you can’t see your shape, it might be off-screen. Double check that your Illustrator file is set to use Pixel coordinates and that your shape is near enough to 0,0 that you’d expect to see it in this window.
 
-6) Get the code! You can save it as a text file or copy it to the clipboard. 
+
+#### 6) 
+Get the code! You can save it as a text file or copy it to the clipboard. 
 
 If you choose to save it as a text file, make sure to enter the name AND the .txt text extension to be able to open the file in a text editor of your choice, then click Save –> 
 
