@@ -167,3 +167,12 @@ That’s it.
 ### Who maintains and contributes to the project
 
 I am not planning to further develop this app any more (today is the 14th of July and it is way too hot outside), unless it stops working, then I will come back to it and make myself (and for you) another version.
+
+
+### Donation
+
+If you like ShapeConverter so much that you feel a strong need to buy me a cup of coffee (or tea) in return for using it, you can use this button below to do something similar :wink:
+[![Donate](images_4_README/donateButton.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=lia%40liaworks%2ecom&lc=GB&item_name=LIA%20%2d%20Software%20Art&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)
+
+
+
