@@ -127,7 +127,7 @@ If you can’t see your shape, it might be off-screen. Double check that your Il
 #### 6) 
 Get the code! You can save it as a text file or copy it to the clipboard. 
 
-If you choose to save it as a text file, make sure to enter the name AND the .txt text extension to be able to open the file in a text editor of your choice, then click Save –> 
+If you choose to save it as a text file, make sure to enter the **name AND the .txt text extension** to be able to open the file in a text editor of your choice, then click Save –> 
 
 ![Optional Text](images_4_README/16_saveTextFileWithExtension.jpg)
 
