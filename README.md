@@ -27,5 +27,21 @@ It could be better, I know. Instead of getting one vertex point and one bezierVe
 
 (If you set your document size to the same as your Processing project size, you can get an overall idea of how big the shapes will be in your Processing project while you are drawing them in Illustrator.)
 
+![Optional Text](images_4_README/01_newAI_File.jpg)
+
+2) Draw some simple shapes.
+
+The top left corner of your Illustrator art board will have the Processing coordinates x:0, y:0. 
+
+So if you want to do some fancy rotation later on inside Processing, be aware of the fact, that Processing will rotate around exactly this point (more details below). My recommendation is to use the top left corner either as the starting point, the center point or the end point of the shape.
+
+To keep things simple, set the stroke color to black and set no fill color.
+
+As an example, here’s a shape I made using the pen tool:
+
+![Optional Text](images_4_README/01_newAI_File.jpg)  
+
+
+
 
 
