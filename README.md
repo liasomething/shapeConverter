@@ -39,7 +39,7 @@ To keep things simple, set the stroke color to black and set no fill color.
 
 As an example, here’s a shape I made using the pen tool:
 
-![Optional Text](images_4_README/02_penTool.jpg)  
+![Optional Text](images_4_README/02_penTool_x2.jpg)  
 
 
 
