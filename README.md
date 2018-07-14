@@ -19,7 +19,7 @@ I made this project mainly for myself, as I often want to draw my shapes first i
 
 For a while I used a self-written Director application, after that I used an Illustrator extension called [Drawscript](https://forums.adobe.com/thread/1175097), but it stopped working at some point. Rather than go through the hassle of learning how to make a an Illustrator plugin, I thought it would be easier and more useful to make my own conversion app instead.
 
-It could be better, I know. Instead of getting one vertex point and one bezierVertex with three points, I could have worked harder so that you get one bezier curve with all 4 points in one line, but I trust in you that you can fix this in your Processing code yourself if you feel the need to. ;)
+It could be better, I know. Instead of getting one vertex point and one bezierVertex with three points, I could have worked harder so that you get one bezier curve with all 4 points in one line, but I trust in you that you can fix this in your Processing code yourself if you feel the need to. :wink:
 
 ### How to use ShapeConverter
 
@@ -29,7 +29,7 @@ Open Illustrator and create a new file. Set the units to Pixels, and to make thi
 (If you set your document size to the same as your Processing project size, you can get an overall idea of how big the shapes will be in your Processing project while you are drawing them in Illustrator.)
 
 ![Optional Text](images_4_README/01_newAI_File.jpg)
-
+<br><br>
 
 #### 2) 
 Draw some simple shapes.
