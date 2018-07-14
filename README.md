@@ -8,7 +8,7 @@ ShapeConverter generates Processing code for simple paths found in an Adobe Illu
 Note that the following are NOT supported:
 * compound paths
 * gradient colours
-* multiple document layers
+* more than one layer
 
 ### Why ShapeConverter is useful
 
