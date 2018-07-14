@@ -29,8 +29,7 @@ Open Illustrator and create a new file. Set the units to Pixels, and to make thi
 (If you set your document size to the same as your Processing project size, you can get an overall idea of how big the shapes will be in your Processing project while you are drawing them in Illustrator.)
 
 ![Optional Text](images_4_README/01_newAI_File.jpg)
-
-<br>
+<br><br>
 #### 2) 
 Draw some simple shapes.
 
@@ -57,8 +56,7 @@ What does NOT work with shapeConverter ?
 * gradient colours
 * more than one layer
 Stay simple and you will be happy with the results of ShapeConverter.
-
-<br>
+<br><br>
 #### 3) 
 Once you have your shape finished, it is important to export it in the right file format: **Illustrator 8**.
 
@@ -95,8 +93,7 @@ If you slowly scroll up a little bit, you will also find the line saying "%AI5_B
 ![Optional Text](images_4_README/10_beginLayer.jpg)
 
 The interesting data that makes your shape is between the "%AI5_BeginLayer" and the "%AI5_EndLayer--" lines. I will not go into detail about the Adobe Illustrator file format here, because this would be way too much for here and it is not essential that you actually know about it at at all. This was just a little side track.
-
-<br>
+<br><br>
 #### 4) 
 Open the shapeConverter.pde file in your Processing application and click the Run button:
 
@@ -117,8 +114,7 @@ If you get this warning –>
 ![Optional Text](images_4_README/13_warning.jpg)
 
 ... that means you probably tried to open a file that was saved with a different file format. Make sure you follow the steps above to make sure your file has **Illustrator 8** format !
-
-<br>
+<br><br>
 #### 5) 
 If everything went well, your shape should appear in the ShapeCoverter window.
 
@@ -127,8 +123,7 @@ The cross indicates where the TOP LEFT corner of your Illustrator document was. 
 ![Optional Text](images_4_README/15_save_text.jpg)
 
 If you can’t see your shape, it might be off-screen. Double check that your Illustrator file is set to use Pixel coordinates and that your shape is near enough to 0,0 that you’d expect to see it in this window.
-
-<br>
+<br><br>
 #### 6) 
 Get the code! You can save it as a text file or copy it to the clipboard. 
 
