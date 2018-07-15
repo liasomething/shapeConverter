@@ -21,6 +21,12 @@ For a while I used a self-written Director application, after that I used an Ill
 
 It could be better, I know. Instead of getting one vertex point and one bezierVertex with three points, I could have worked harder so that you get one bezier curve with all 4 points in one line, but I trust in you that you can fix this in your Processing code yourself if you feel the need to. :wink:
 
+### How to download the files
+
+You can either get the files from the download folder here on GitHub, or you can download a .zip file directly from my server:
+[download zip file](http://www.liaworks.com/wip/ShapeConverter.zip)
+
+
 ### How to use ShapeConverter
 
 #### 1) 
